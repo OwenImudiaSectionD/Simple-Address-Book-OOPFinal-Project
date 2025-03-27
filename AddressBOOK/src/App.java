@@ -124,9 +124,9 @@ public class App {
                     running = false;
                 }else{
                     System.out.println("Invalid Choice. Please try again");
-                }
-        }
+                };
+        };
         
-    }
+    };
     
-}
+};
